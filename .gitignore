@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.idea/
+.ipynb_checkpoints/
+# Kaggle dataset (66 MB), download it yourself
+IMDB Dataset.csv
+*.csv
